@@ -1,0 +1,12 @@
+{
+  "name": "perpustakaan-mvp",
+  "version": "1.0.0",
+  "description": "MVP Sistem Perpustakaan untuk Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
